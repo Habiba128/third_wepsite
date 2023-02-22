@@ -1,27 +1,13 @@
-body{
-    font-family: cursive;
-}
-nav .container-fluid
+body
 {
-    background-color: #9f8772;
+    color: #ede4e0;
 }
-
-.edit{
-    background-color:#9f8772;
-}
-
 .card{
     width: 100%;
     background-color:#9f8772;
 }
-.cart{
-    color: #ede4e0;
-    height: 300px;
-    font-family: cursive;
-}
-.cart button{
-    color:#9f8772;
-}
+
+
 .code{
     width: 100%;
     background-color:#ede4e0;
@@ -42,93 +28,33 @@ text-align: left;
 background-color: #ede4e0;
 color: #9f8772;
 }
-.section
+.image1
 {
     width: 100%;
-    height: 500px;
+    height: 100vh;
     background-image: url("ring-with-fabric.jpg");
 background-attachment: fixed;
 background-repeat: none;
-background-size: 100%;
-}
-.section1
-{ width:100%;
-    height: 1000px;
-    background-color:#9f8772;
-    color:#ede4e0;
-    font-family: cursive;
-}
- .section1 .card{
-   background-color: #ede4e0;
-   margin-top: 10px;
-   margin-left: 50px;
-   color:#9f8772;
-}
-.section2 .card{
-    background-color: #ede4e0;
-margin-top:40px ;
-    margin-left: 140px;
-    color:#9f8772;
-}
-.section3
+background-size: 100%;}
+
+ 
+.image2
 {
     width: 100%;
     background-image: url("leaves-near-hot-drink-plaid-bedsheet.jpg");
-    height:500px;
+    height:50vh;
     background-attachment: fixed;
 background-repeat: none;
 background-size: 100%;
 
 }
-.section1 .card .btn{
-    background-color:#9f8772 ;
-    color:#ede4e0;
-   margin-left: 90px;
-}
-.section4
-{
-    width: 100%;
-    height: 500px;
-    background-color:#9f8772;
-    color:#ede4e0;
-}
-.section4 .card{
-    background-color: #ede4e0;
-    margin-top:40px ;
-        margin-left: 140px;
-        color:#9f8772;
 
-    }
-    .section4 .card:hover{
+   
+     .card:hover{
 background-color:#ede4e053;
     }
-    .section4 .card .btn{
-        background-color:#9f8772 ;
-        color:#ede4e0;
-       margin-left: 90px;
-    }
-    .section5
-{
-   font-family: cursive;
-    width: 100%;
-    height: 50vh;
-    background-color:#9f8772;
-    color:#ede4e0;
-}
-.section5 .card{
-
-    width: 250px;
-    height: 150;
-    text-align: center;
-    background-color: #ede4e0;
-    margin-top:40px ;
-       margin-left: 90;
-        color:#9f8772;
-    }
-    .section5 .card:hover{
-        background-color: #ede4e09d;
-    }
-
+   
+    
     footer{
         width: 100%;
         height: 400px;
@@ -136,15 +62,7 @@ background-color:#ede4e053;
         color:#9f8772;
     }
     body a{
-        color:#9f8772;    
+        color:#9f8772 ; 
+        
     }
-   .image 
-   {
-    width: 100%;
-    background-image: url("leaves-near-hot-drink-plaid-bedsheet.jpg");
-    height:300px;
-    background-attachment: fixed;
-background-repeat: none;
-background-size: 100%;
-
-   }
+   
